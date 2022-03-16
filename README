@@ -31,6 +31,8 @@ then it looks at usual location /usr/include/linux/dvb.
 Install as follows:
 	make
 	make install
+	
+finshed = cp scan-s2 /usr/local/bin/
 Uninstall
 	make uninstall
 
